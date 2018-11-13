@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "53471152029",
+    "firebase_url": "https://fbloginwithfirebaseexamp-7ba43.firebaseio.com",
+    "project_id": "fbloginwithfirebaseexamp-7ba43",
+    "storage_bucket": "fbloginwithfirebaseexamp-7ba43.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:53471152029:android:10e060be6d4f615c",
+        "android_client_info": {
+          "package_name": "com.fbLoginWithFirebaseExample.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "53471152029-g7alkcvlvskomhhvtq6bohldhrkfreub.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3_fpS3Y9xO4MxosWpi_DkT2cpldoXpvQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
